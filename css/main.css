@@ -7,6 +7,10 @@
   color: white;
 } */
 
+.list-heading {
+    padding: 20px 15px 0 15px;
+}
+
 #header ul .glyphicon {
     font-size: 20px;
 }
